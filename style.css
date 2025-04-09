@@ -33,7 +33,7 @@ hr{
 .container-center{
     max-width: 600px;
     margin: auto;  
-    margin-bottom: 1%;
+    margin-bottom: 5%;
 }
 
 
@@ -51,6 +51,7 @@ hr{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    margin-right: 1%;
 
 }
 
@@ -167,3 +168,4 @@ hr{
 .footer ul{
     padding-inline-start: 0px;
 }
+
